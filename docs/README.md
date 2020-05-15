@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## COCON - RGB2HEX Color Converter
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 You can use the [editor on GitHub](https://github.com/widilo/cocon-color-converter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
